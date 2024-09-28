@@ -1,4 +1,4 @@
-![Logo of the project](https://raw.githubusercontent.com/jehna/readme-best-practices/master/sample-logo.png)
+![Logo of the project]([https://raw.githubusercontent.com/jehna/readme-best-practices/master/sample-logo.png](https://raw.githubusercontent.com/gditoro/certo/refs/heads/main/Certo%20Validation%20Logo.png))
 ### Certo: Form Validation
 > A flexible form validation library for JavaScript applications with the powerful `Regra` validation rule notation.
 
